@@ -1,2 +1,4 @@
-# COMP530
-rice
+# FIFO STACK
+## SHIYU WANG
+## 2020-02-09
+
